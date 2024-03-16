@@ -32,4 +32,4 @@ Welcome to my coding odyssey, where I shape digital experiences with passion and
 
 🌐 **Upwork**: [bariqbilaldeveloper](https://www.upwork.com/bariqbilaldeveloper)
 
-🐱 **GitHub**: [bariq43](https://github.com/bariq43)
+🐱 **GitHub**: [bariqbilaldeveloper](https://github.com/bariqbilaldeveloper)
